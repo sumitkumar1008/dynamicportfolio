@@ -1,0 +1,27 @@
+# Compiled classes
+**/WEB-INF/classes/
+**/*.class
+
+# Tomcat and build artifacts
+/apache-tomcat-*
+*.war
+
+# IDE
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Environment
+.env
